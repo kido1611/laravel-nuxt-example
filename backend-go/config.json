@@ -1,0 +1,12 @@
+{
+  "app": {
+    "port": 8000
+  },
+  "database": {
+    "driver": "sqlite",
+    "host": "db.sqlite"
+  },
+  "log": {
+    "level": 6
+  }
+}
